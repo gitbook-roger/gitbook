@@ -5,7 +5,7 @@
   * [ClashDotNet教程（推荐使用）](windows/clash-jiao-cheng-tui-jian-shi-yong.md)
   * [Netch客户端](windows/netch-ke-hu-duan.md)
 * [二、Android客户端](android/README.md)
-  * [安卓版定制客户端（推荐使用）](android/an-zhuo-ban-ding-zhi-ke-hu-duan-tui-jian-shi-yong.md)
+  * [安卓版定制客户端（不推荐使用）](android/an-zhuo-ban-ding-zhi-ke-hu-duan-tui-jian-shi-yong.md)
   * [V2rayNG](android/v2rayng.md)
 * [三、iPhone和iPad](ios/README.md)
   * [Shadowrocket客户端](ios/shadowrocket-ke-hu-duan.md)
