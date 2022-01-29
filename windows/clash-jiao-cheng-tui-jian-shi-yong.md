@@ -10,11 +10,9 @@
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MZLH6c4OwkK2u-QUq7C%2F-MZNkd2JNd2W6CSd10cp%2F-MZNrBVzpVvGdmh4d\_1v%2F.net5.0.png?alt=media\&token=ce691e52-50e3-4904-9b85-38853ff2b5a4)
 
-
-
 ## 二、下载软件，并解压软件到你的电脑 <a href="#yi-xia-zai-ruan-jian-bing-jie-ya-ruan-jian-dao-ni-de-dian-nao" id="yi-xia-zai-ruan-jian-bing-jie-ya-ruan-jian-dao-ni-de-dian-nao"></a>
 
-直链下载：​[https://file.tiyunzong.cloud/Downloads/Clash\_NET\_1.2.8.7z](https://file.tiyunzong.cloud/Downloads/Clash\_NET\_1.2.8.7z)
+[直链下载](https://file.tiyunzong.cloud/Downloads/Clash\_NET\_1.2.8.7z)
 
 ## 二、打开软件 <a href="#er-da-kai-ruan-jian" id="er-da-kai-ruan-jian"></a>
 
@@ -65,4 +63,3 @@
 请经常更新配置文件，自动获得最新节点和删除失效节点。重要!!!!!!!!!!!!!
 
 ![](<../.gitbook/assets/image (2).png>)
-
