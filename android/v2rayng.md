@@ -6,7 +6,7 @@
 
 下载链接：
 
-直链下载：[https://file.tiyunzong.cloud/Downloads/v2rayNG\_1.6.5\_x86.apk](https://file.tiyunzong.cloud/Downloads/v2rayNG\_1.6.5\_x86.apk)
+[直链下载](https://file.tiyunzong.cloud/Downloads/v2rayNG\_1.6.5\_x86.apk)
 
 百度网盘链接：[https://pan.baidu.com/s/1oHcqOMumeYc\_u4rsARo6EA](https://pan.baidu.com/s/1oHcqOMumeYc\_u4rsARo6EA) 提取码：5ugi
 

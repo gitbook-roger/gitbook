@@ -10,7 +10,7 @@
 
 ## 二、下载Netch 客户端 <a href="#er-xia-zai-netch-ke-hu-duan" id="er-xia-zai-netch-ke-hu-duan"></a>
 
-​[直链下载](https://file.tiyunzong.cloud/Downloads/Netch.7z)
+​直链下载：[https://file.tiyunzong.cloud/Downloads/Netch.7z](https://file.tiyunzong.cloud/Downloads/Netch.7z)
 
 百度网盘链接：[https://pan.baidu.com/s/1oHcqOMumeYc\_u4rsARo6EA](https://pan.baidu.com/s/1oHcqOMumeYc\_u4rsARo6EA) 提取码：5ugi
 
