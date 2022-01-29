@@ -4,7 +4,7 @@
 
 下载链接：
 
-直链下载：[https://file.tiyunzong.cloud/Downloads/ClashX.dmg](https://file.tiyunzong.cloud/Downloads/ClashX.dmg)
+[直链下载](https://file.tiyunzong.cloud/Downloads/ClashX.dmg)
 
 百度网盘链接：[https://pan.baidu.com/s/1oHcqOMumeYc\_u4rsARo6EA](https://pan.baidu.com/s/1oHcqOMumeYc\_u4rsARo6EA) 提取码：5ugi
 
