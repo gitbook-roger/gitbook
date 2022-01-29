@@ -36,9 +36,7 @@
 
 单击一键导入Clash
 
-![](../.gitbook/assets/image.png)
-
-单击打开
+然后单击打开
 
 ![](../.gitbook/assets/clashdotnet2.PNG)
 
