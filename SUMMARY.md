@@ -1,6 +1,7 @@
 # Table of contents
 
 * [全平台使用教程](README.md)
+* [网站首页](wang-zhan-shou-ye.md)
 * [一、windows客户端](windows/README.md)
   * [ClashDotNet教程（推荐使用）](windows/clash-jiao-cheng-tui-jian-shi-yong.md)
   * [Netch客户端](windows/netch-ke-hu-duan.md)
